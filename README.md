@@ -24,6 +24,7 @@ The application follows these steps to provide responses to your questions:
 To install the MultiPDF Chat App, please follow these steps:
 
 1. Clone the repository to your local machine.
+   https://github.com/DarshanG12/MULTI_PDF_CHAT_APP.git
 
 2. Install the required dependencies by running the following command:
    ```
